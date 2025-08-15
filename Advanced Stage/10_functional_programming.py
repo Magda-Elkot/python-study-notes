@@ -1,4 +1,4 @@
-# Topic: Functional Programming Concepts in Python
+# Topic: Functional Programming Concepts in Python  git commit -m "Add lesson: Functional Programming Concepts with examples and comments"
 # -------------------------------------------------
 # Functional programming is a style of programming where you treat computation
 # as the evaluation of mathematical functions and avoid changing state/mutable data.
